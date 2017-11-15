@@ -1,0 +1,19 @@
+{
+    "cognitive_atlas_task_id": "trm_5696a9cfe45b1",
+    "instructions":"Respond to the stimuli on the screen.",
+    "description":"Expfactory experiment",
+    "url":"https://www.github.com/expfactory-experiments/letter-memory",
+    "contributors": [
+        "Ian Eisenberg",
+        "Zeynep Enkavi",
+        "Patrick Bissett",
+        "Vanessa Sochat",
+        "Russell Poldrack"
+    ],
+    "exp_id": "letter-memory",
+    "name": "Letter Memory",
+    "reference": ["http://www.sciencedirect.com/science/article/pii/S001002859990734X",
+                  "Condition records difficulty as quantified by the sequence length"],
+    "template": "jspsych",
+    "time": 5
+}
